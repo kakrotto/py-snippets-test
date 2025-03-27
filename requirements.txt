@@ -1,0 +1,4 @@
+Pygments
+PyYAML
+tortoise-orm[aiomysql]
+aerich[toml]
